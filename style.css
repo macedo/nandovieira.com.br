@@ -11,7 +11,7 @@
 body {
 	background: #2c3641 url(images/bg.png);
 	color: #fff;
-	font-family: "Museo 700 Regular";
+	font-family: "Museo 700 Regular", helvetica, arial, sans-serif;
 }
 
 header {
