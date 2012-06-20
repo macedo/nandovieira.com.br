@@ -89,3 +89,5 @@ li a {
 .skype a { background-image: url(images/skype.png); }
 .slideshare a { background-image: url(images/slideshare.png); }
 .forrst a { background-image: url(images/forrst.png); }
+
+#work { text-decoration: none } 
